@@ -40,43 +40,7 @@ Currently focused on **TypeScript, React, Python and backend development**.
 
 ---
 
-## 🚀 Featured Projects
-
-### 🎬 [AnimeSoul](https://github.com/Quidden/AnimeSoul)
-
-Local anime library with API integration, episode tracking, progress tracking and user collections.
-
-**Tech:** TypeScript • React
-
----
-
-### 📝 [TextEditor](https://github.com/Quidden/TextEditor)
-
-Desktop text editor written in Python with a modular architecture and additional integrations.
-
-**Tech:** Python
-
----
-
-## 📚 Currently Learning
-
-- Backend development
-- REST API design
-- TypeScript
-- Java
-- PHP
-- Docker
-
----
-
 ## 📊 GitHub Stats
 
 ![Top Languages](https://github-readme-stats.shion.dev/api/top-langs/?username=Quidden&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
----
-
-## 📫 Contacts
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vladyslav-bielovol-51960a30b/)
-[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://loadstarunity.com/)
-[![Steam](https://img.shields.io/badge/Steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/quidden/)
