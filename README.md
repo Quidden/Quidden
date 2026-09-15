@@ -5,7 +5,6 @@
 I'm a Computer Science student from Kharkiv, Ukraine.
 
 I build web, desktop and backend applications.  
-Currently focused on **TypeScript, React, Python and backend development**.
 
 ---
 
